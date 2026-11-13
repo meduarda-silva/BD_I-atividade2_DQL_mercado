@@ -1,0 +1,1 @@
+# BD_I-atividade2_DQL_mercado
