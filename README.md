@@ -1,1 +1,2 @@
-# BD_I-atividade2_DQL_mercado
+# BANCO DE DADOS 1
+Atividade de DQL - Data Base Mercado
